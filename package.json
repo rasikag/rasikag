@@ -1,0 +1,22 @@
+{
+  "name": "rasikag",
+  "version": "1.0.0",
+  "description": "this is my personal web site ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasikag/rasikag.git"
+  },
+  "author": "rasikag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasikag/rasikag/issues"
+  },
+  "homepage": "https://github.com/rasikag/rasikag#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
